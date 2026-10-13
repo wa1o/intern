@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
+    "hardhat": "^2.29.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "ethers": "^6.17.0"
+  }
+}
